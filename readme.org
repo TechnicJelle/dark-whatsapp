@@ -6,7 +6,7 @@
 Complete dark mode implementation for [[https://web.whatsapp.com][WhatsApp Web]] with many improvements and
 customizable options.
 
-[[https://raw.githubusercontent.com/TechnicJelle/dark-whatsapp/master/wa.user.styl][https://img.shields.io/badge/Install%20directly%20with-Stylus-116b59.svg?longCache=true&style=flat]]
+[[https://raw.githubusercontent.com/TechnicJelle/dark-whatsapp/main/wa.user.styl][https://img.shields.io/badge/Install%20directly%20with-Stylus-116b59.svg?longCache=true&style=flat]]
 
 #+HTML: <img src="https://raw.githubusercontent.com/TechnicJelle/dark-whatsapp/master/images/preview.png" width="100%"/>
 
@@ -33,7 +33,7 @@ Visit [[https://github.com/vednoc/dark-whatsapp/wiki/Configuration][configuratio
 ** Installation
 You have to install [[https://add0n.com/stylus.html][Stylus]] and then click on the install link below.
 
-[[https://raw.githubusercontent.com/TechnicJelle/dark-whatsapp/master/wa.user.styl][https://img.shields.io/badge/Install%20directly%20with-Stylus-116b59.svg]]
+[[https://raw.githubusercontent.com/TechnicJelle/dark-whatsapp/main/wa.user.styl][https://img.shields.io/badge/Install%20directly%20with-Stylus-116b59.svg]]
 
 *** Other ways to install this userstyle
 For userstyle managers other than Stylus or a custom-compiled version, see
