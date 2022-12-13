@@ -6,7 +6,7 @@
 @supportURL   https://github.com/TechnicJelle/dark-whatsapp/issues
 @updateURL    https://raw.githubusercontent.com/TechnicJelle/dark-whatsapp/main/wa.user.styl
 @author       vednoc <vednoc@pm.me> (https://github.com/vednoc)
-@version      3.7.3
+@version      3.7.4
 @license      MIT
 @preprocessor stylus
 
@@ -2258,6 +2258,7 @@ OM = _omsg
         /._3nNEI { box-shadow: 0 -1px bg3 i }
     }
 
+    // Enlarged profile pictures next to messages -->
     html[dir="ltr"] .sordb {
       left: -64px;
     }
@@ -2267,4 +2268,11 @@ OM = _omsg
       width: 54px;
       height: 54px;
     }
+    //<--
+    
+    //Removal of weird tiny lines -->
+    #main [class*="message-"][data-id] > span + div:not(._1S-gg) > div {
+      box-shadow: none !important;
+    }
+    //<--
 }
