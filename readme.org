@@ -2,18 +2,13 @@
 #+HTML: <div align="center">
 #+HTML: <img src="https://user-images.githubusercontent.com/20738487/71411679-0bc7b580-2653-11ea-99dd-f4c49a536132.png" width="96" height="96"/>
 
-* Dark-WhatsApp (né onyx)
+* Dark-WhatsApp, TechnicJelle's own private fork (from [[https://github.com/vednoc/dark-whatsapp][vednoc]])
 Complete dark mode implementation for [[https://web.whatsapp.com][WhatsApp Web]] with many improvements and
 customizable options.
 
-[[https://github.com/vednoc/dark-whatsapp/blob/master/changelog.org][https://img.shields.io/github/v/tag/vednoc/dark-whatsapp.svg?label=version&style=flat]]
-[[https://github.com/vednoc/dark-whatsapp/stargazers][https://img.shields.io/github/stars/vednoc/dark-whatsapp.svg?style=flat]]
-[[https://github.com/vednoc/dark-whatsapp/network][https://img.shields.io/github/forks/vednoc/dark-whatsapp.svg?color=007ec6&style=flat]]
-[[https://github.com/vednoc/dark-whatsapp/wiki][https://img.shields.io/badge/docs-on%20GitHub-007ec6.svg?&style=flat]]
-[[https://raw.githubusercontent.com/vednoc/dark-whatsapp/master/wa.user.styl][https://img.shields.io/badge/Install%20directly%20with-Stylus-116b59.svg?longCache=true&style=flat]]
-[[https://discord.gg/NpT8PzA][https://img.shields.io/discord/272011641694978048.svg?longCache=true&colorB=7289da&logo=discord&style=flat]]
+[[https://raw.githubusercontent.com/TechnicJelle/dark-whatsapp/master/wa.user.styl][https://img.shields.io/badge/Install%20directly%20with-Stylus-116b59.svg?longCache=true&style=flat]]
 
-#+HTML: <img src="https://raw.githubusercontent.com/vednoc/dark-whatsapp/master/images/preview.png" width="100%"/>
+#+HTML: <img src="https://raw.githubusercontent.com/TechnicJelle/dark-whatsapp/master/images/preview.png" width="100%"/>
 
 /Version 3.0.0 with [[https://github.com/rsms/inter/][Inter]] as the custom font, and hidden notification alerts.
 Check [[https://github.com/vednoc/dark-whatsapp/wiki/Configuration][Configuration page]] on project/ wiki to get started customizing your
@@ -38,7 +33,7 @@ Visit [[https://github.com/vednoc/dark-whatsapp/wiki/Configuration][configuratio
 ** Installation
 You have to install [[https://add0n.com/stylus.html][Stylus]] and then click on the install link below.
 
-[[https://raw.githubusercontent.com/vednoc/dark-whatsapp/master/wa.user.styl][https://img.shields.io/badge/Install%20directly%20with-Stylus-116b59.svg]]
+[[https://raw.githubusercontent.com/TechnicJelle/dark-whatsapp/master/wa.user.styl][https://img.shields.io/badge/Install%20directly%20with-Stylus-116b59.svg]]
 
 *** Other ways to install this userstyle
 For userstyle managers other than Stylus or a custom-compiled version, see
@@ -54,13 +49,13 @@ visit the [[https://github.com/vednoc/dark-whatsapp/wiki/Configuration][configur
 ** Contributions
 Any contribution is greatly appreciated.
 
-If you'd like to contribute code, please make sure to read the [[https://github.com/vednoc/dark-whatsapp/blob/master/contributing.org][contribution
+If you'd like to contribute code, please make sure to read the [[https://github.com/TechnicJelle/dark-whatsapp/blob/master/contributing.org][contribution
 guidelines]].
 
-If you really like this project and would like to tip me for my work, then you
+If you really like this project and would like to tip the original author for their work, then you
 can:
-- Buy me a coffee over at [[https://ko-fi.com/vednoc][ko-fi]]
-- Support me over at [[https://liberapay.com/vednoc][LiberaPay]]
+- Buy them a coffee over at [[https://ko-fi.com/vednoc][ko-fi]]
+- Support them over at [[https://liberapay.com/vednoc][LiberaPay]]
 
 ** Credits
 This project wouldn't be possible without:
