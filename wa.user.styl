@@ -6,7 +6,7 @@
 @supportURL   https://github.com/TechnicJelle/dark-whatsapp/issues
 @updateURL    https://raw.githubusercontent.com/TechnicJelle/dark-whatsapp/main/wa.user.styl
 @author       vednoc <vednoc@pm.me> (https://github.com/vednoc)
-@version      3.7.1.2
+@version      3.7.1.3
 @license      MIT
 @preprocessor stylus
 
@@ -1071,9 +1071,8 @@ msg += "P.S. CSS can not create clickable links."
         /// Global -> Scrollbar styles.
         /\* {
             /// Scrollbar colors.
-            @supports (scrollbar-width: thin) {
-                scrollbar-color: ac2 var(--shadow) i
-            }
+            scrollbar-width: auto;
+            scrollbar-color: ac2 var(--shadow) i
             &::-webkit-scrollbar {
                 &-thumb { c: 0 0 ac2 }
                 &-track { c: 0 0 var(--shadow) }
